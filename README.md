@@ -1,0 +1,1 @@
+# edge-impulse-predictive-maintenance-vibration-commonsense-sony-spresense
